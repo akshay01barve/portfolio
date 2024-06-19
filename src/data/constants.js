@@ -160,11 +160,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQHe8b2hXN-LHw/company-logo_200_200/0/1644648894133/maitretech_solution_logo?e=2147483647&v=beta&t=L65cMKNYvf6gvqaHnHQ8oaiuetq8keATcchJmMiJT_k",
-    role: "Frontend Developer",
-    company: "Maitretech Solution",
-    date: "Aug 2023 ",
-    desc: "Enhanced user experiences on Maitretech Solution PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency.",
+    img: "https://www.sastapaisa.com/assets/images/logo-main-sm.png",
+    role: "ReactJS Frontend Developer",
+    company: "SastaPaisa",
+    date: "Sept 2022 ",
+    desc: "Enhanced user experiences on SastaPaisa PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built  Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency.",
     skills: [
       "ReactJS",
       "Redux",
